@@ -64,7 +64,4 @@ streamlit run movie_recommender.py
 🏆 Contribution
 We welcome contributions! If you'd like to add new features or fix issues, feel free to fork this repository and submit a pull request.
 
-📄 License
-This repository is licensed under the MIT License.
-
 🚀 Happy Coding!
